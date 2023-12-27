@@ -5,13 +5,13 @@ seeds = false
 skip-lint = false
 
 [programs.localnet]
-test_anchor = "ECzDME4J9w1LvPLwCS1TpKLPHt85CXTVvdgJ3sa3a9Po"
+test_anchor = "29HEqiNgTffmNFgkpL4kUmDDVDSyGgtrSBXzHWiPYC2S"
 
 [registry]
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "localnet"
+cluster = "https://devnet.helius-rpc.com/?api-key=887524e6-92b0-4f96-973c-b37a53a9cfe4"
 wallet = "/home/erenaspire7/.config/solana/id.json"
 
 [scripts]
